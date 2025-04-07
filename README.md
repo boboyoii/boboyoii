@@ -2,32 +2,44 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F5F5DC&height=150&section=header&text=Hi,%20I'm%20BOYEON%20&fontSize=32&fontColor=000000&fontAlignY=40" />
 
-<p>🌿 Frontend Developer </p>
+<p>🌱 Always Learning </p>
 
-</br>
 
 </div>
 
-## 💡 About Me
-.....  
+<sub>🐣 <strong>About Me</strong></sub>
+-------------
+- 컴퓨터공학과 재학 중
+- Email: [boyeon6331@gmail.com](mailto:boyeon6331@gmail.com)  
+- Velog: [https://velog.io/@boboyoii/posts](https://velog.io/@boboyoii/posts)
 
 
 
-## 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/React Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<br />
+
+<sub>🧩 <strong>Studying & Planning</strong></sub>
+-------------
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
 
 
-## 📫 Contact
+<sub>✨ <strong>Skills</strong></sub>
+-------------
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://velog.io/@boboyoii"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
-<!-- 필요한 경우 LinkedIn 등 추가 가능 -->
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+<br/>
 
 <table>
 <tr>
@@ -39,3 +51,6 @@
 </td>
 </tr>
 </table>
+
+
+
