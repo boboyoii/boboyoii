@@ -13,6 +13,7 @@
 - Email: [boyeon6331@gmail.com](mailto:boyeon6331@gmail.com)  
 - Velog: [https://velog.io/@boboyoii/posts](https://velog.io/@boboyoii/posts)
 
+<br/>
 
 <sub>🧩 <strong>Studying & Planning</strong></sub>
 -------------
