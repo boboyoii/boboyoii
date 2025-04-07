@@ -40,5 +40,6 @@
 </tr>
 </table>
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yeon7094)](https://solved.ac/yeon7094)
 
 
