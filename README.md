@@ -7,7 +7,7 @@
 
 </div>
 
-<sub>🐰 <strong>About Me</strong></sub>
+<sub>🐣 <strong>About Me</strong></sub>
 -------------
 - 컴퓨터공학과 재학 중
 - Email: [boyeon6331@gmail.com](mailto:boyeon6331@gmail.com)  
