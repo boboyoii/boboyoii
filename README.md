@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5F5DC&height=150&section=header&text=Hi,%20I'm%20BOYEON%20&fontSize=32&fontColor=000000&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFE4E1&height=150&section=header&text=Hi,%20I'm%20BOYEON%20&fontSize=32&fontColor=000000&fontAlignY=40" />
 
 <p>🌱 Always Learning </p>
 
 
 </div>
 
-<sub>🐣 <strong>About Me</strong></sub>
+<sub>🐰 <strong>About Me</strong></sub>
 -------------
 - 컴퓨터공학과 재학 중
 - Email: [boyeon6331@gmail.com](mailto:boyeon6331@gmail.com)  
